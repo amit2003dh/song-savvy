@@ -1,16 +1,18 @@
-# 🎵 SongSavvy - Hindi Bollywood Song Recommender
+# 🎵 SongSavvy
 
-**SongSavvy** is a content-based recommendation system for Hindi Bollywood songs. It analyzes features such as artist, genre, mood, lyrics, and other metadata to recommend songs similar to your selection.
+SongSavvy is an intelligent, content-based recommendation system designed to curate personalized Bollywood music recommendations. By analyzing acoustic features and metadata, the system suggests tracks that match the vibe and characteristics of a user's favorite music.
 
----
+## 🚀 Key Features
 
-## ✨ Features
+- **Content-Based Filtering:** Utilizes advanced machine learning models to analyze track similarities based on genres, artists, and acoustic features.
+- **Interactive UI:** Built using Streamlit to offer a clean, responsive, and user-friendly interface for instantaneous recommendation generation.
+- **Vectorized Searching:** Employs text vectorization and cosine similarity scoring to accurately match and rank song recommendations.
 
-- 🔍 **Search Songs**: Search for songs by title.
-- 🎨 **Filter Options**: Filter songs by artist, mood, and year range.
-- 🎧 **Personalized Recommendations**: Get recommendations based on selected song similarity.
-- 🔍 **Explainability**: See why a song was recommended through feature-based similarity.
+## 🛠️ Tech Stack
 
+- **Core Language:** Python
+- **Machine Learning & Analytics:** Scikit-learn, Pandas, NumPy
+- **Frontend/Application Framework:** Streamlit
 ---
 
 
